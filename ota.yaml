@@ -4,4 +4,4 @@ password: None
 wifi: None
 update: False
 service_ip: None
-version: 1.0.2
+version: 1.0.4
