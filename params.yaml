@@ -1,0 +1,26 @@
+color_hour_h: 356
+color_hour_s: 1013
+color_hour_v: 993
+color_min_h: 19
+color_min_s: 1024
+color_min_v: 993
+color_sec_h: 155
+color_sec_s: 1024
+color_sec_v: 951
+hour_zero: 0
+min_zero: 0
+sec_zero: 0
+step_sec: 480
+step_min: 640
+speed_min: 500
+speed_sec: 480
+th_device: None
+devices: None
+password: None
+wifi: None
+alarms: None
+auto_mode: False
+people_detect: False
+sub_mode: 0
+time_zone: 8.0
+
